@@ -1,7 +1,7 @@
 - 👋 &nbsp; Hi, I’m Hiren Vaghasiya @hirenkvaghasiya
 - 👀 &nbsp; I’m interested in Designing, Developing and Marketing Stuff.
 - 🌱 &nbsp; I’m currently learning Growth Hacking.
-- 💞️ &nbsp; I’m looking to collaborate on @vaghasiyahirenk Instagram.
+- 💞️ &nbsp; I’m looking to collaborate on @hirenkvaghasiya Instagram.
 - 📫 &nbsp; Reach me on my email always hirenkvaghasiya@hotmail.com
 
 <!---
