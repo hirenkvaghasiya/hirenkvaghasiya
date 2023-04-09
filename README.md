@@ -15,9 +15,7 @@ I’m a Frontend Developer with a design passion. I have developed some web & mo
 * 🤝  I'm open to collaborating on ReactJS, React Native, WordPress Projects
 * ⚡  2023 Goals: Contribute more to Open Source projects
 
-<a href="https://www.twitter.com/hirenkvaghasiya" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/twitter/follow/hirenkvaghasiya?logo=twitter&style=for-the-badge&color=3382ed&labelColor=22272e" /> </a>
-
-### 💻 CORE SKILLS
+### 💻 Core Skill
 
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> &nbsp; 
@@ -28,7 +26,7 @@ I’m a Frontend Developer with a design passion. I have developed some web & mo
     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a> &nbsp; 
 </p>
 
-### 💻 BACKEND AND DATABASE
+### 💻 Backend & Database
 
 <p align="left">
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> &nbsp; 
@@ -37,7 +35,7 @@ I’m a Frontend Developer with a design passion. I have developed some web & mo
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> &nbsp; 
 </p>
 
-### 💻 SOFTWARE & TOOLS
+### 💻 Software & Tools
 
 <p align="left">
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> &nbsp; 
