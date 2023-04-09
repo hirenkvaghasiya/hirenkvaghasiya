@@ -59,7 +59,7 @@ I’m a Frontend Developer with a design passion. I have developed some web & mo
 
 <a href="http://www.github.com/hirenkvaghasiya"><img src="https://github-readme-stats.vercel.app/api?username=hirenkvaghasiya&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=333333&hide_border=true&show_icons=true" alt="hirenkvaghasiya's GitHub stats" /></a>
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br />
 
 <!---
 vaghasiyaharryk/vaghasiyaharryk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
